@@ -1,0 +1,156 @@
+ \documentclass[xcolor=dvipsnames,table]{beamer}
+
+\usepackage{latexsym}
+\usepackage[utf8]{inputenc}
+\usepackage[brazil]{babel}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{stmaryrd}
+\usepackage{fancybox}
+\usepackage{datetime}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{graphics}
+\usepackage{url}
+\usepackage{algorithmic}
+\usepackage{algorithm}
+\usepackage{acronym}
+\usepackage{array}
+
+\usepackage{enumitem}
+
+\newtheorem{definicao}{Definio}
+\newcommand{\tab}{\hspace*{2em}}
+
+\mode<presentation>
+{
+  \definecolor{colortexto}{RGB}{0,0,0}
+ 
+  \setbeamertemplate{background canvas}[vertical shading][ bottom=white!10,top=white!10]
+  \setbeamercolor{normal text}{fg=colortexto} 
+
+  \usetheme{Warsaw}
+}
+
+\title{Informática na Educação}  
+
+\author{
+  Esdras Lins Bispo Jr. \\ \url{bispojr@ufj.edu.br}
+  } 
+ \institute{
+  Tópicos em Informática e Educação \\Bacharelado em Ciência da Computação}
+\date{\textbf{25 de março de 2026} }
+
+\logo{\includegraphics[width=1.5cm]{images/ufjJataiLogo.png}}
+
+\begin{document}
+
+	\begin{frame}
+		\titlepage
+	\end{frame}
+
+	\AtBeginSection{
+		\begin{frame}{Sumário}%[allowframebreaks]{Sumário}
+    		\tableofcontents[currentsection]
+    		%\tableofcontents[currentsection, hideothersubsections]
+		\end{frame}
+	}
+
+	\begin{frame}{Plano de Aula}
+		\tableofcontents
+		%\tableofcontents[hideallsubsections]
+	\end{frame}
+	
+	\section{Instrução pelos Colegas}
+
+        \begin{frame}{Pesquisa 002}
+		\begin{block}{[P002]}
+			Como foi a leitura do estudo prévio?
+		\end{block}
+		\begin{enumerate}[label=(\Alph*)]
+			\item Boa leitura
+			\item Leitura razoável
+			\item Difícil de ler
+			\item Não consegui ler
+		\end{enumerate}
+	\end{frame}
+
+    \begin{frame}{Questão 007}
+		\begin{block}{[Q007]}
+			A concepção de educação bancária foi denunciada e criticada por Freire na década de 1970. Do ponto de vista comunicacional, ela está associada ao papel do...
+		\end{block}
+		\begin{enumerate}[label=(\Alph*)]
+			\item Professor como transmissor da informação
+			\item Professor como receptor da informação
+			\item Aluno como transmissor da informação
+			\item Gestor como receptor da informação
+		\end{enumerate}
+	\end{frame}
+
+    \begin{frame}{Questão 008}
+		\begin{block}{[Q008]}
+		As concepções abaixo referem-se ao modelo interacional de comunicação, \underline{\bf exceto}:
+		\end{block}
+		\begin{enumerate}[label=(\Alph*)]
+			\item  O receptor não é um vaso a ser preenchido.
+			\item O receptor passou a ser visto como um sujeito que tem consciência e só aceita o que deseja.
+			\item O que o receptor aceita (ou melhor, compreende) varia grandemente conforme sua cultura.
+			\item O receptor cumpre a sua função ao receber a informação e incorporá-la internamente.
+		\end{enumerate}
+	\end{frame}
+
+    \begin{frame}{Questão 009}
+		\begin{block}{[Q009]}
+		 A comunicação e a educação diferem tanto na sua função, quanto no campo de estudo, segundo Valente (2014), devido...
+		\end{block}
+		\begin{enumerate}[label=(\Alph*)]
+			\item ...à comunicação ter o papel fundamental e o compromisso de ajudar o receptor a construir o seu conhecimento.
+			\item ...à educação estudar a maneira como acontece o processo de significação, de compreensão e de apropriação da informação.
+			\item ...à comunicação ter o papel fundamental e o compromisso de ajudar o transmissor a construir o seu conhecimento.
+			\item ...à educação estudar a maneira como acontece a transmissão, recepção e captação da atenção da informação.
+		\end{enumerate}
+	\end{frame}
+
+\begin{frame}{Questão 010}
+		\begin{block}{[Q010]}
+		 Os fatores abaixo têm contribuído para que a educação seja entendida como uma atividade comunicacional de transmissão de informação, \underline{\bf exceto}:
+		\end{block}
+		\begin{enumerate}[label=(\Alph*)]
+			\item A falta de clareza na distinção entre diferentes concepções sobre o conhecimento.
+			\item A criação de ambientes de aprendizagem onde haja tanto aspectos da transmissão quanto de construção (apropriação) de informação.
+			\item A ideia de que o conhecimento acumulado não deve ser reconstruído pelo aprendiz, pois já foi elaborado.
+			\item A escola, como reprodutora do saber, entende que tal “conhecimento” deve ser transmitido aos seus alunos. 
+		\end{enumerate}
+	\end{frame}
+
+\begin{frame}{Questão 011}
+		\begin{block}{[Q011]}
+		 As Tecnologias Digitais da Informação e Comunicação (TDIC) têm sido utilizadas para fins educacionais apropriadamente, segundo Valente (2014), quando: 
+		\end{block}
+		\begin{enumerate}[label=(\Alph*)]
+			\item usamos as TDIC na programação ou simulação de fenômenos. 
+			\item usamos as TDIC como potencializadora da transmissão do conhecimento gerado.
+			\item usamos as TDIC para encantar os alunos com novidades tecnológicas.
+			\item usamos as TDIC para estimular o uso individual da recepção do conhecimento.
+		\end{enumerate}
+	\end{frame}
+
+\section{Próxima Aula}
+\begin{frame}{Próxima Aula}
+    \begin{block}{Leitura Prévia}
+        \begin{itemize}
+            \item Vicari, et al. (2018). Pensamento Computacional: Revisão Bibliográfica. Relatório Técnico do Projeto de Avaliação de Tecnologias Educacionais. UFRGS/MEC. Disponível em: \url{https://lume.ufrgs.br/bitstream/handle/10183/197566/001097710.pdf}.  
+        \end{itemize}
+    \end{block}
+    \begin{block}{Páginas}
+        \begin{itemize}
+        \item Seção 3.1: Bases do Pensamento Computacional (pp. 30-37).
+        \end{itemize}
+    \end{block}
+\end{frame}
+	
+	\begin{frame}
+		\titlepage
+	\end{frame}
+	
+\end{document}
