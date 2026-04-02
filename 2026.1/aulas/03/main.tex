@@ -1,0 +1,168 @@
+ \documentclass[xcolor=dvipsnames,table]{beamer}
+
+\usepackage{latexsym}
+\usepackage[utf8]{inputenc}
+\usepackage[brazil]{babel}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{stmaryrd}
+\usepackage{fancybox}
+\usepackage{datetime}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{graphics}
+\usepackage{url}
+\usepackage{algorithmic}
+\usepackage{algorithm}
+\usepackage{acronym}
+\usepackage{array}
+
+\usepackage{enumitem}
+
+\newtheorem{definicao}{Definio}
+\newcommand{\tab}{\hspace*{2em}}
+
+\mode<presentation>
+{
+  \definecolor{colortexto}{RGB}{0,0,0}
+ 
+  \setbeamertemplate{background canvas}[vertical shading][ bottom=white!10,top=white!10]
+  \setbeamercolor{normal text}{fg=colortexto} 
+
+  \usetheme{Warsaw}
+}
+
+\title{Encontro entre Informática e Educação}  
+
+\author{
+  Esdras Lins Bispo Jr. \\ \url{bispojr@ufj.edu.br}
+  } 
+ \institute{
+  Tópicos em Informática e Educação \\Bacharelado em Ciência da Computação}
+\date{\textbf{23 de março de 2026} }
+
+\logo{\includegraphics[width=1.5cm]{images/ufjJataiLogo.png}}
+
+\begin{document}
+
+	\begin{frame}
+		\titlepage
+	\end{frame}
+
+	\AtBeginSection{
+		\begin{frame}{Sumário}%[allowframebreaks]{Sumário}
+    		\tableofcontents[currentsection]
+    		%\tableofcontents[currentsection, hideothersubsections]
+		\end{frame}
+	}
+
+	\begin{frame}{Plano de Aula}
+		\tableofcontents
+		%\tableofcontents[hideallsubsections]
+	\end{frame}
+	
+	\section{Instrução pelos Colegas}
+
+        \begin{frame}{Pergunta 001}
+		\begin{block}{[P001]}
+			Como foi a leitura do estudo prévio?
+		\end{block}
+		\begin{enumerate}[label=(\Alph*)]
+			\item Boa leitura
+			\item Leitura razoável
+			\item Difícil de ler
+			\item Não consegui ler
+		\end{enumerate}
+	\end{frame}
+
+        \begin{frame}{Questão 001}
+		\begin{block}{[Q001]}
+			O Workshop de Ensino em Pensamento Computacional, Algoritmos e Programação (WAlgProg) foi um evento científico da Computação que existiu do ano de 2015 até 2019. Em qual das áreas da Computação o WAlgProg \underline{{\bf melhor}} se encaixa?
+		\end{block}
+		\begin{enumerate}[label=(\Alph*)]
+			\item Redes de Computadores
+			\item Educação em Computação
+			\item Informática na Educação
+			\item Banco de Dados
+		\end{enumerate}
+	\end{frame}
+
+        \begin{frame}{Questão 002}
+		\begin{block}{[Q002]}
+			Podemos descrever como um dos objetivos da Educação em Computação:
+		\end{block}
+		\begin{enumerate}[label=(\Alph*)]
+			\item Criar ferramentas pedagógicas para o suporte de professores no ensino de uma forma geral.
+			\item Construir sistemas de visualização de modelos atômicos utilizando a computação como mediador pedagógico.
+			\item Aperfeiçoar os processos de ensino e aprendizagem da Computação como ciência.
+			\item Desenvolver sistemas computacionais que possuam mecanismos de aprendizagem (semi-)automática.
+		\end{enumerate}
+	\end{frame}
+
+        \begin{frame}{Questão 003}
+		\begin{block}{[Q003]}
+			São interesses da Educação em Computação, \underline{{\bf exceto}}:
+		\end{block}
+		\begin{enumerate}[label=(\Alph*)]
+			\item uso de computação vestível na educação.
+			\item mentoria profissional de graduandos de Computação.
+			\item ensino da honestidade acadêmica na Computação.
+			\item influência da língua materna em erros de compilação.
+		\end{enumerate}
+	\end{frame}
+
+        \begin{frame}{Questão 004}
+		\begin{block}{[Q004]}
+			Um bom ponto de partida para a compreensão sobre o que seria Informática na Educação, a partir do que foi exposto por Valente (2008), seria:
+		\end{block}
+		\begin{enumerate}[label=(\Alph*)]
+			\item Aprendizagem de Computação
+			\item Desenvolvimento através do Computador
+			\item Ensino de Computação
+			\item Ensino através do Computador
+		\end{enumerate}
+	\end{frame}
+
+        \begin{frame}{Questão 005}
+		\begin{block}{[Q005]}
+			A definição de Informática na Educação apresentada por Bispo Jr. e colegas (2020) é:
+		\end{block}
+		\begin{enumerate}[label=(\Alph*)]
+			\item o uso de artefatos tecnológicos como mediadores nos processos de ensino e aprendizagem, e aos seus impactos.
+			\item o ensino de artefatos tecnológicos como mediadores nos processos de ensino e aprendizagem, e aos seus impactos.
+			\item o uso de computadores como mediadores nos processos de ensino e aprendizagem, e aos seus impactos.
+			\item o ensino de computadores como mediadores nos processos de ensino e aprendizagem, e aos seus impactos.
+		\end{enumerate}
+	\end{frame}
+
+        \begin{frame}{Questão 006}
+		\begin{block}{[Q006]}
+			São tópicos de interesse da Informática na Educação, \underline{\bf exceto}:
+		\end{block}
+		\begin{enumerate}[label=(\Alph*)]
+			\item Simuladores e Jogos Educativos
+                \item Motivação de Graduandos na Computação
+                \item  Aprendizagem  Colaborativa  Apoiada  por Computadores
+                \item Mineração de Dados Educacionais
+		\end{enumerate}
+	\end{frame}
+
+\section{Próxima Aula}
+\begin{frame}{Próxima Aula}
+    \begin{block}{Leitura Prévia}
+        \begin{itemize}
+            \item VALENTE, J. A. A comunicação e a educação baseada no uso das tecnologias digitais de informação e comunicação. {\bf UNIFESO-Humanas e Sociais}, v. 1, n. 01, p. 141-166, 2014. Disponível em: \url{https://revista.unifeso.edu.br/index.php/revistaunifesohumanasesociais/article/view/17}.  
+        \end{itemize}
+    \end{block}
+    \begin{block}{Páginas}
+        \begin{itemize}
+        \item Seções 1 e 2 (pp. 141-147). 
+        \end{itemize}
+    \end{block}
+\end{frame}
+	
+	\begin{frame}
+		\titlepage
+	\end{frame}
+	
+\end{document}
