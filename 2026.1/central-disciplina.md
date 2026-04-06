@@ -63,8 +63,8 @@ Prof. Esdras Lins Bispo Jr.
 | Aula 04 | 25/03 | Informática na Educação | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/master/2026.1/aulas/04/main.pdf) |
 | Aula 05 | 30/03 | Educação em Computação | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/master/2026.1/aulas/05/main.pdf) |
 | Aula 06 | 01/04 | Abordagem Tradicional | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/master/2026.1/aulas/06/main.pdf) |
-| Aula 07 | 06/04 | Tipos de Projetos em I&E | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/master/2026.1/aulas/07/main.pdf) |
-| Descomp. | — | Descomprometimento com a Própria Aprendizagem | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/master/2026.1/aulas/descomprometimento/main.pdf) |
+| Aula 07.1 | 06/04 | Tipos de Projetos em I&E | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/master/2026.1/aulas/07/main.pdf) |
+| Aula 07.2 | 06/04 | Descomprometimento com a Própria Aprendizagem | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/master/2026.1/aulas/descomprometimento/main.pdf) |
 
 ---
 
