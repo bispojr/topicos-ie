@@ -28,7 +28,7 @@ Prof. Esdras Lins Bispo Jr.
 
 > Documento oficial com objetivos, cronograma, critérios de avaliação e bibliografia da disciplina.
 
-📎 *A ser disponibilizado em breve.*
+📎 [Baixar Plano de Ensino (PDF)](https://github.com/bispojr/topicos-ie/blob/main/2026.1/documentos/plano_ensino_topicos_ie_2026_1.pdf_assinado.pdf)
 
 ---
 
