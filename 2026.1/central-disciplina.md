@@ -57,14 +57,14 @@ Prof. Esdras Lins Bispo Jr.
 
 | Aula | Data | Tema | Link |
 |------|------|------|------|
-| Aula 01 | 16/03 | Inteligência Artificial e Trabalho Docente | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/master/2026.1/aulas/01/main.pdf) |
-| Aula 02 | 18/03 | Apresentação da Disciplina | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/master/2026.1/aulas/02/main.pdf) |
-| Aula 03 | 23/03 | Encontro entre Informática e Educação | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/master/2026.1/aulas/03/main.pdf) |
-| Aula 04 | 25/03 | Informática na Educação | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/master/2026.1/aulas/04/main.pdf) |
-| Aula 05 | 30/03 | Educação em Computação | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/master/2026.1/aulas/05/main.pdf) |
-| Aula 06 | 01/04 | Abordagem Tradicional | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/master/2026.1/aulas/06/main.pdf) |
-| Aula 07.1 | 06/04 | Tipos de Projetos em I&E | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/master/2026.1/aulas/07/main.pdf) |
-| Aula 07.2 | 06/04 | Descomprometimento com a Própria Aprendizagem | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/master/2026.1/aulas/descomprometimento/main.pdf) |
+| Aula 01 | 16/03 | Inteligência Artificial e Trabalho Docente | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/main/2026.1/aulas/01/main.pdf) |
+| Aula 02 | 18/03 | Apresentação da Disciplina | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/main/2026.1/aulas/02/main.pdf) |
+| Aula 03 | 23/03 | Encontro entre Informática e Educação | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/main/2026.1/aulas/03/main.pdf) |
+| Aula 04 | 25/03 | Informática na Educação | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/main/2026.1/aulas/04/main.pdf) |
+| Aula 05 | 30/03 | Educação em Computação | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/main/2026.1/aulas/05/main.pdf) |
+| Aula 06 | 01/04 | Abordagem Tradicional | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/main/2026.1/aulas/06/main.pdf) |
+| Aula 07.1 | 06/04 | Tipos de Projetos em I&E | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/main/2026.1/aulas/07/main.pdf) |
+| Aula 07.2 | 06/04 | Descomprometimento com a Própria Aprendizagem | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/main/2026.1/aulas/descomprometimento/main.pdf) |
 
 ---
 
