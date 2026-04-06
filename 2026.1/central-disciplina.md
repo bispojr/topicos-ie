@@ -38,7 +38,7 @@ Prof. Esdras Lins Bispo Jr.
 
 > Fundamentação teórica e critérios práticos para a identificação do descomprometimento acadêmico na disciplina, integrando as diretrizes do curso com a literatura sobre avaliação formativa e regimes pedagógicos.
 
-📎 [Acessar documento](https://github.com/bispojr/topicos-ie/blob/master/2026.1/documentos/descomprometimento-aprendizagem.md)
+📎 [Acessar documento](https://github.com/bispojr/topicos-ie/blob/master/2026.1/documentos/descomprometimento-aprendizagem/main.md)
 
 **Tópicos abordados:**
 
