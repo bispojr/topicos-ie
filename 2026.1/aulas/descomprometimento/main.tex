@@ -1,0 +1,513 @@
+\documentclass[xcolor=dvipsnames,table]{beamer}
+
+\usepackage{latexsym}
+\usepackage[utf8]{inputenc}
+\usepackage[brazil]{babel}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{stmaryrd}
+\usepackage{fancybox}
+\usepackage{datetime}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{graphics}
+\usepackage{url}
+\usepackage{algorithmic}
+\usepackage{algorithm}
+\usepackage{acronym}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{colortbl}
+\usepackage{fontawesome5}
+\usepackage{ragged2e}
+
+\graphicspath{{../02/images/}{images/}}
+
+\newtheorem{definicao}{Definição}
+\newcommand{\tab}{\hspace*{2em}}
+
+% Comandos do Semáforo
+\newcommand{\sazul}{\textcolor{NavyBlue}{\faCircle}\,}
+\newcommand{\samarelo}{\textcolor{Goldenrod}{\faCircle}\,}
+\newcommand{\svermelho}{\textcolor{BrickRed}{\faCircle}\,}
+
+\mode<presentation>
+{
+  \definecolor{colortexto}{RGB}{0,0,0}
+  \setbeamertemplate{background canvas}[vertical shading][bottom=white!10,top=white!10]
+  \setbeamercolor{normal text}{fg=colortexto}
+  \usetheme{Warsaw}
+}
+
+\title{Descomprometimento \\com a Própria Aprendizagem}
+\author{
+  Esdras Lins Bispo Jr. \\ \url{bispojr@ufj.edu.br}
+}
+\institute{
+  Tópicos em Informática e Educação \\ Bacharelado em Ciência da Computação}
+\date{\textbf{06 de abril de 2026}}
+\logo{\includegraphics[width=1.5cm]{ufjJataiLogo.png}}
+
+\begin{document}
+
+  \begin{frame}
+    \titlepage
+  \end{frame}
+
+  \AtBeginSection{
+    \begin{frame}{Sumário}
+      \tableofcontents[currentsection]
+    \end{frame}
+  }
+
+  \begin{frame}{Plano de Aula}
+    \tableofcontents
+  \end{frame}
+
+  %---------------------------------------
+  \section{Justificativa Pedagógica}
+
+  \begin{frame}{\faBook\ Justificativa Pedagógica}
+    \begin{block}{\faCheckCircle\ Avaliação Formativa}
+      Em um regime formativo, a avaliação torna-se um \textbf{ato inclusivo} focado no bem da
+      aprendizagem (Santos et al., 2020; Luckesi, 2011).\\[4pt]
+      O professor atua como \textbf{parceiro} interessado no sucesso do estudante.
+    \end{block}
+    \pause
+    \begin{block}{\faRedoAlt\ Ciclo de Feedback}
+      O aluno precisa fornecer \textbf{evidências constantes} de aprendizagem para fechar o ciclo
+      de feedback (Sadler, 1989).
+    \end{block}
+  \end{frame}
+
+  \begin{frame}{\faExclamationTriangle\ \textit{Dangling Data}}
+    \begin{alertblock}{\faBan\ Dados Suspensos (\textit{Dangling Data})}
+      Sem participação ou entregas, o docente fica \textbf{impossibilitado} de:
+      \begin{itemize}
+        \item[\faSearch] realizar o diagnóstico necessário;
+        \item[\faSitemap] orientar a evolução do aluno. \small (Sadler, 1989)
+      \end{itemize}
+    \end{alertblock}
+    \pause
+    \begin{exampleblock}{\faHandshake\ Compromisso como Contrapartida Ética}
+      O compromisso é a contrapartida ética necessária para que o professor cumpra sua obrigação
+      como \textbf{promotor da aprendizagem} (Matusov, 2020).
+    \end{exampleblock}
+  \end{frame}
+
+  %---------------------------------------
+  \section{Alinhamento com a Disciplina}
+
+  \begin{frame}{Alinhamento com o Plano de Ensino}
+    \begin{block}{\faBookOpen\ Ênfase no Processo}
+      A avaliação enfatiza o \textbf{processo} em detrimento da classificação, buscando a
+      superação do erro (Bispo Jr., 2026).
+    \end{block}
+    \pause
+    \begin{block}{\faGraduationCap\ Papel do Professor}
+      O professor exerce o papel de \textbf{``promotor de objetivação dialógica''}, garantindo
+      imersão em uma educação autêntica (Matusov, 2021).
+    \end{block}
+    \pause
+    \begin{exampleblock}{\faFileAlt\ Contrato Pedagógico}
+      A aprovação está vinculada à produção de \textbf{evidências de domínio e crescimento
+      intelectual} (Bispo Jr., 2026; Sanders, 2021).
+    \end{exampleblock}
+  \end{frame}
+
+  %---------------------------------------
+  \section{Indicadores de Descomprometimento}
+
+  \begin{frame}{Três Dimensões de Indicadores}
+    \begin{columns}
+      \column{.33\textwidth}
+      \begin{block}{\centering \textcolor{white}{\faClock}}
+        \centering \textbf{Assiduidade} \\[4pt]
+        \small Presença e\\Pontualidade
+      \end{block}
+      \column{.33\textwidth}
+      \begin{block}{\centering \textcolor{white}{\faHandshake}}
+        \centering \textbf{Participação} \\[4pt]
+        \small Atitude e\\Engajamento
+      \end{block}
+      \column{.33\textwidth}
+      \begin{block}{\centering \textcolor{white}{\faChartLine}}
+        \centering \textbf{Evolução} \\[4pt]
+        \small Evidências de\\Aprendizagem
+      \end{block}
+    \end{columns}
+    \vspace{0.8em}
+    \pause
+    \begin{center}
+      \small O descomprometimento abrange \\\textbf{dimensões comportamentais e cognitivas}\\
+      (Chipchase et al., 2017).
+    \end{center}
+  \end{frame}
+
+  \begin{frame}{\textcolor{white}{\faClock}\ Assiduidade e Pontualidade}
+    \begin{itemize}
+      \item[\textcolor{BrickRed}{\faBan}] \textbf{Absenteísmo}
+        \begin{itemize}
+          \item Frequência inferior a \textbf{75\%}
+          \item Inviabiliza o acompanhamento sistemático\\
+            {\small (Bispo Jr., 2026; Chipchase et al., 2017)}
+        \end{itemize}
+      \pause
+      \bigskip
+      \item[\textcolor{Goldenrod}{\faClock}] \textbf{Atrasos Recorrentes}
+        \begin{itemize}
+          \item Chegada consistente \textbf{após o início} das atividades coletivas
+          \item Prejudica o fluxo de trabalho do grupo {\small (Bispo Jr., 2026)}
+        \end{itemize}
+    \end{itemize}
+  \end{frame}
+
+  \begin{frame}{\textcolor{white}{\faHandshake}\ Participação e Atitude}
+    \begin{itemize}
+      \item[\textcolor{BrickRed}{\faMobile}] \textbf{Desengajamento Profissional}
+        \begin{itemize}
+          \item Recusa em seguir instruções ou uso indevido de dispositivos
+            {\small (Sparrow, 2018; Matusov, 2021)}
+        \end{itemize}
+      \pause
+      \item[\textcolor{gray}{\faBed}] \textbf{Inércia e Apatia}
+        \begin{itemize}
+          \item Não aproveitamento das oportunidades de engajamento
+            {\small (Chipchase et al., 2017)}
+        \end{itemize}
+      \pause
+      \item[\textcolor{gray}{\faMicrophoneSlash}] \textbf{Falta de Contribuição}
+        \begin{itemize}
+          \item Não participação em discussões (\textit{Peer Instruction}) ou projetos
+            {\small (Bispo Jr., 2026)}
+        \end{itemize}
+    \end{itemize}
+  \end{frame}
+
+  \begin{frame}{\textcolor{OliveGreen}{\faChartLine}\ Evolução e Evidência}
+    \begin{itemize}
+      \item[\textcolor{BrickRed}{\faChartBar}] \textbf{Nível Incompleto}
+        \begin{itemize}
+          \item Evidências insuficientes — menos da metade das metas {\small (Sanders, 2021)}
+        \end{itemize}
+      \pause
+      \item[\textcolor{gray}{\faBed}] \textbf{Estagnação Intelectual}
+        \begin{itemize}
+          \item Pouco ou nenhum crescimento entre versões do projeto {\small (Sanders, 2021)}
+        \end{itemize}
+      \pause
+      \item[\textcolor{BrickRed}{\faArrowDown}] \textbf{Média Insatisfatória}
+        \begin{itemize}
+          \item Média \textbf{abaixo de 3,0} (escala 1--5) em Evolução e Comprometimento
+            {\small (Bispo Jr., 2026)}
+        \end{itemize}
+    \end{itemize}
+  \end{frame}
+
+  %---------------------------------------
+  \section{Consequência Educacional}
+
+  \begin{frame}{\faExclamationTriangle\ Consequência Educacional}
+    \begin{alertblock}{\centering \faBan\ Reprovação Direta --- Nota Final \textbf{4,0}}
+      \centering O diagnóstico de descomprometimento\\ resulta em reprovação direta (Bispo Jr., 2026).
+    \end{alertblock}
+    \pause
+    \begin{block}{\faInfoCircle\ Não é meramente uma medida punitiva}
+      Esta medida reconhece que a \textbf{ausência de evidências} impede a certificação da
+      aprendizagem (Sanders, 2021).
+    \end{block}
+    \pause
+    \begin{exampleblock}{\faRedoAlt\ Reorientação}
+      O aluno recebe uma nota que sinaliza a necessidade de \\\textbf{novo ciclo de estudos}
+      (McMorran et al., 2015; Sanders, 2021).
+    \end{exampleblock}
+  \end{frame}
+
+  %---------------------------------------
+  \section{Sistema de Monitoramento}
+
+  \begin{frame}{Duas Camadas Complementares}
+    \begin{columns}
+      \column{.5\textwidth}
+      \begin{block}{\centering (A) Condições Estruturais}
+        \centering \small Critérios institucionais e acumulativos — definem a \textbf{elegibilidade}
+        para aprovação
+      \end{block}
+      \column{.5\textwidth}
+      \begin{alertblock}{\centering (B) Semáforo Formativo}
+        \centering \small Monitoramento contínuo do comportamento e engajamento
+      \end{alertblock}
+    \end{columns}
+    \vspace{1em}
+    \pause
+    \begin{exampleblock}{\centering \faInfoCircle\ Princípio Fundamental}
+      \centering As camadas são \textbf{logicamente distintas} e \textbf{complementares}.
+    \end{exampleblock}
+  \end{frame}
+
+  \begin{frame}{(A) Assiduidade --- Faixa de Faltas}
+    \begin{block}{}
+      \faExclamationCircle\ Frequência mínima obrigatória: \textbf{75\%}
+    \end{block}
+    \vspace{0.5em}
+    \begin{center}
+      \begin{tabular}{lc}
+        \toprule
+        \rowcolor{NavyBlue!20}
+        \textbf{Faixa de Faltas} & \textbf{Situação} \\
+        \midrule
+        Até 12 faltas
+          & \textcolor{OliveGreen}{\faCheckCircle}\ \ Situação regular \\
+        \rowcolor{Goldenrod!25}
+        13 a 16 faltas
+          & \textcolor{Goldenrod}{\faExclamationTriangle}\ \ Zona de alerta \\
+        \rowcolor{BrickRed!20}
+        Mais de 16 faltas
+          & \textcolor{BrickRed}{\faBan}\ \ Reprovação automática \\
+        \bottomrule
+      \end{tabular}
+    \end{center}
+    \pause
+    \begin{alertblock}{\faExclamationCircle\ Atenção}
+      \small Reprovação direta \textbf{independentemente} do desempenho nos demais componentes.
+    \end{alertblock}
+  \end{frame}
+
+  \begin{frame}{(A) Alerta de Frequência}
+    \begin{block}{\faMapPin\ Caráter Preventivo}
+      Ao atingir a zona de alerta \textbf{(13--16 faltas)}, o estudante será formalmente
+      notificado para permitir correção de trajetória antes do limite crítico.
+    \end{block}
+    \pause
+    \begin{exampleblock}{\faInfoCircle\ Observação Importante}
+      Este alerta possui caráter \textbf{preventivo} e \textbf{não} é contabilizado como sinal
+      do semáforo (\sazul\samarelo\svermelho).
+    \end{exampleblock}
+  \end{frame}
+
+  \begin{frame}{(B) Sistema Semáforo de Engajamento}
+    \begin{columns}
+      \column{.33\textwidth}
+      \begin{block}{\centering \textcolor{NavyBlue}{\faCircle\ \faCircle\ \faCircle}}
+        \centering \small \textbf{Azul}\\[3pt]
+        Notificação de Alinhamento\\(indício inicial)
+      \end{block}
+      \column{.33\textwidth}
+      \begin{alertblock}{\centering \textcolor{Goldenrod}{\faCircle\ \faCircle\ \faCircle}}
+        \centering \small \textbf{Amarelo}\\[3pt]
+        Notificação Crítica\\(comprometimento significativo)
+      \end{alertblock}
+      \column{.33\textwidth}
+      \begin{block}{\centering \textcolor{BrickRed}{\faCircle\ \faCircle\ \faCircle}}
+        \centering \small \textbf{Vermelho}\\[3pt]
+        Registro de Insucesso\\(reprovação direta)
+      \end{block}
+    \end{columns}
+    \pause
+    \vspace{0.7em}
+    \begin{exampleblock}{\centering \faRedoAlt\ Progressão entre Níveis}
+      \centering
+      \sazul Evento pontual
+      \; $\longrightarrow$ \;
+      \\\samarelo Repetição sem correção
+      \; $\longrightarrow$ \;
+      \\\svermelho Persistência
+    \end{exampleblock}
+  \end{frame}
+
+  \begin{frame}{\sazul Sinal Azul: Notificação de Alinhamento}
+    \begin{block}{\faSearch\ O que indica?}
+      Indícios \textbf{iniciais} de desalinhamento com as expectativas da disciplina.
+    \end{block}
+    \pause
+    \begin{block}{\faEnvelope\ Procedimento}
+      Comunicação breve (e-mail ou conversa privada).
+    \end{block}
+    \pause
+    \begin{exampleblock}{\faBullseye\ Objetivo}
+      Reorientação imediata e identificação de obstáculos.
+    \end{exampleblock}
+  \end{frame}
+
+  \begin{frame}{\samarelo Sinal Amarelo: Notificação Crítica}
+    \begin{block}{\faExclamationTriangle\ O que indica?}
+      Comprometimento \textbf{significativo} do contrato pedagógico.
+    \end{block}
+    \pause
+    \begin{block}{\faFileAlt\ Procedimento}
+      Comunicação formal de alerta.
+    \end{block}
+    \pause
+    \begin{alertblock}{\faBullseye\ Objetivo}
+      Indicar risco concreto e necessidade de \textbf{mudança imediata}.
+    \end{alertblock}
+  \end{frame}
+
+  \begin{frame}{\svermelho Sinal Vermelho: Registro de Insucesso}
+    \begin{alertblock}{\faBan\ O que indica?}
+      Os critérios mínimos de engajamento \textbf{não foram atingidos}.
+    \end{alertblock}
+    \pause
+    \begin{block}{\faTimesCircle\ Resultado}
+      \centering Reprovação direta com \textbf{Nota Final 4,0}.
+    \end{block}
+    \pause
+    \begin{exampleblock}{\faInfoCircle\ Justificativa}
+      Ausência de evidências suficientes para avaliação da aprendizagem.
+    \end{exampleblock}
+  \end{frame}
+
+  \begin{frame}[t]{Indicadores por Dimensão: \faFolder\ Entregáveis do Projeto}
+    \begin{columns}
+      \column{.33\textwidth}
+      \begin{block}{\centering \sazul Indício}
+        \centering \scriptsize 1 ocorrência de atraso/entrega incompleta, \textbf{com} resposta
+        ao feedback
+      \end{block}
+      \column{.33\textwidth}
+      \begin{alertblock}{\centering \samarelo Persistência}
+        \centering \scriptsize 2 ocorrências consecutivas, com baixo aproveitamento do feedback
+      \end{alertblock}
+      \column{.33\textwidth}
+      \begin{block}{\centering \svermelho Consolidação}
+        \centering \scriptsize Não entrega de item essencial ou entregas insuficientes
+        \textbf{sem} correção
+      \end{block}
+    \end{columns}
+  \end{frame}
+
+  \begin{frame}[t]{Indicadores por Dimensão: \faMobileAlt\ Engajamento Profissional}
+    \begin{columns}
+      \column{.33\textwidth}
+      \begin{block}{\centering \sazul Indício}
+        \centering \scriptsize Episódio pontual de uso indevido de dispositivos ou desatenção em
+        atividade ativa
+      \end{block}
+      \column{.33\textwidth}
+      \begin{alertblock}{\centering \samarelo Persistência}
+        \centering \scriptsize Repetição em mais de uma aula, mesmo após orientação
+      \end{alertblock}
+      \column{.33\textwidth}
+      \begin{block}{\centering \svermelho Consolidação}
+        \centering \scriptsize Recusa explícita ou continuidade após intervenção direta
+      \end{block}
+    \end{columns}
+  \end{frame}
+
+  \begin{frame}[t]{Indicadores por Dimensão: \faComments\ Participação Acadêmica}
+    \begin{columns}
+      \column{.33\textwidth}
+      \begin{block}{\centering \sazul Indício}
+        \centering \scriptsize Participação mínima ou superficial em atividade pontual
+      \end{block}
+      \column{.33\textwidth}
+      \begin{alertblock}{\centering \samarelo Persistência}
+        \centering \scriptsize Ausência de participação em múltiplos encontros consecutivos
+      \end{alertblock}
+      \column{.33\textwidth}
+      \begin{block}{\centering \svermelho Consolidação}
+        \centering \scriptsize Inércia sistemática, sem contribuição mesmo quando solicitado
+        diretamente
+      \end{block}
+    \end{columns}
+    \pause
+    \vspace{0.5em}
+    \begin{exampleblock}{\faInfoCircle\ Nota sobre o Plickers}
+      \scriptsize O esquecimento recorrente do QR Code (Plickers) pode ser sinalizado como
+      \sazul, evoluindo para \samarelo\ ou \svermelho\ conforme a persistência.
+    \end{exampleblock}
+  \end{frame}
+
+  \begin{frame}[t]{Indicadores por Dimensão: \faChartLine\ Evolução da Aprendizagem}
+    \begin{columns}
+      \column{.33\textwidth}
+      \begin{block}{\centering \sazul Indício}
+        \centering \scriptsize Progresso abaixo do esperado em uma entrega ou ciclo
+      \end{block}
+      \column{.33\textwidth}
+      \begin{alertblock}{\centering \samarelo Persistência}
+        \centering \scriptsize Manutenção do mesmo nível sem incorporar feedback em ciclos
+        consecutivos
+      \end{alertblock}
+      \column{.33\textwidth}
+      \begin{block}{\centering \svermelho Consolidação}
+        \centering \scriptsize Evidência insuficiente para avaliação ou desempenho
+        persistentemente abaixo do mínimo
+      \end{block}
+    \end{columns}
+  \end{frame}
+
+  \begin{frame}{Critérios Transversais de Progressão}
+    \begin{block}{\faListUl\ Fatores Integrados na Mudança de Nível}
+      \begin{itemize}
+        \item[\faUndo] \textbf{Frequência:} ocorrência única vs.\ repetição
+        \pause
+        \item[\faCalendar] \textbf{Persistência no tempo:} eventos consecutivos ou próximos
+        \pause
+        \item[\faComments] \textbf{Resposta ao feedback:} presença ou ausência de reorientação
+      \end{itemize}
+    \end{block}
+    \pause
+    \begin{exampleblock}{\faBullseye\ Foco}
+      Não está no \textbf{erro inicial}, mas na \textbf{manutenção do erro sem evidência de
+      aprendizagem}.
+    \end{exampleblock}
+  \end{frame}
+
+  \begin{frame}{\faBullseye\ Interpretação Operacional}
+    \begin{block}{}
+      \begin{itemize}
+        \item Não depende de eventos isolados, mas de \textbf{padrões de comportamento ao longo
+          do tempo};
+        \pause
+        \item A progressão entre níveis ocorre quando há \textbf{ausência de mudança de postura}
+          diante das oportunidades de reorientação;
+        \pause
+        \item O foco está na \textbf{manutenção do erro} sem evidência de aprendizagem.
+      \end{itemize}
+    \end{block}
+  \end{frame}
+
+  \begin{frame}{\faLightbulb\ Observação Final}
+    \begin{exampleblock}{}
+      A separação entre \textbf{condições estruturais} e \textbf{sinalização formativa} assegura
+      que:
+      \begin{enumerate}
+        \item regras institucionais não sejam confundidas com diagnóstico pedagógico;
+        \pause
+        \item o sistema mantenha \textbf{coerência lógica} e \textbf{transparência};
+        \pause
+        \item o estudante compreenda claramente o que é \textbf{exigência mínima} e o que é
+          \textbf{trajetória de engajamento}.
+      \end{enumerate}
+    \end{exampleblock}
+  \end{frame}
+
+  \begin{frame}[allowframebreaks]{Referências}
+    \footnotesize
+    Bispo Jr., E. L. (2026). \textit{Plano de Ensino: Tópicos em Informática e Educação
+      (2026.1)}. UFJ. \\[4pt]
+    Chipchase, L. et al. (2017). Conceptualising and measuring student disengagement in higher
+      education. \textit{Int.\ J.\ Higher Education, 6}(2), 31--42. \\[4pt]
+    Luckesi, C. C. (2011). \textit{Avaliação da aprendizagem escolar} (22ª ed.). Cortez. \\[4pt]
+    Matusov, E. (2020). A student's right to freedom of education. \textit{Dialogic Pedagogy,
+      8}, SF97--SF114. \\[4pt]
+    Matusov, E. (2021). Teacher as a benevolent dictator. In \textit{Radical Teaching in
+      Turbulent Times}. Palgrave. \\[4pt]
+    McMorran, C., Ragupathi, K., \& Luo, S. (2015). Assessment and learning without grades?
+      \textit{Assessment \& Evaluation in Higher Education}. \\[4pt]
+    Sadler, D. R. (1989). Formative assessment and the design of instructional systems.
+      \textit{Instructional Science, 18}(2), 119--144. \\[4pt]
+    Sanders, E. (2021). \textit{Gradeless Learning}. Master's project.\ Minnesota State
+      University Moorhead. \\[4pt]
+    Santos, C. M. S. et al. (2020). Avaliação não é punição. \textit{Revista Portuguesa
+      Interdisciplinar, 1}(1), 1--46. \\[4pt]
+    Sparrow, S. M. (2018). Teaching and assessing soft skills. \textit{J.\ Legal Education,
+      67}(2), 553--573.
+  \end{frame}
+
+  \begin{frame}
+    \titlepage
+  \end{frame}
+
+\end{document}
