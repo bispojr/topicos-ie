@@ -2,8 +2,8 @@
 ## Instâncias Operacionais de Sinalização do Engajamento
 
 > Este documento detalha **instâncias concretas de comportamento observável** e seus respectivos critérios de sinalização no sistema formativo (🔵🟡🔴), operacionalizando os princípios descritos no documento principal.
+([Veja o documento principal](main.md))
 
----
 
 ## 🧩 Princípios de Operacionalização
 
