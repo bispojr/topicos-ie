@@ -19,6 +19,7 @@ Prof. Esdras Lins Bispo Jr.
 |--|-------|
 | 📄 | [Plano de Ensino](#-plano-de-ensino) |
 | 📋 | [Documentos](#-documentos) |
+| 🗂️ | [Projeto](#️⃣-projeto) |
 | 🖥️ | [Slides](#-slides) |
 | 📲 | [Plickers](#-plickers) |
 
@@ -53,7 +54,35 @@ Prof. Esdras Lins Bispo Jr.
 
 ---
 
-## 🖥️ Slides
+## 🗂️  Projeto
+
+### 📋 Informações Gerais
+
+> Documento de referência do projeto: objetivo, dedicação semanal, cronograma de reuniões de alinhamento, entregáveis e critérios de avaliação.
+
+📎 [Acessar documento](https://github.com/bispojr/topicos-ie/blob/main/2026.1/documentos/projeto/main.md)
+
+**Tópicos abordados:**
+
+| # | Seção |
+|---|-------|
+| 1️⃣ | Objetivo Principal |
+| ⏳ | Dedicação Semanal Esperada |
+| 2️⃣ | Reuniões de Alinhamento (horários) |
+| 3️⃣ | Entregáveis |
+| 4️⃣ | Critérios de Avaliação |
+
+---
+
+### 👥 Grupos
+
+> Composição atual dos grupos de projeto, incluindo tipo de projeto de cada equipe.
+
+📎 [Acessar lista de grupos](https://github.com/bispojr/topicos-ie/blob/main/2026.1/documentos/projeto/grupos.md)
+
+---
+
+## 🖥️ Slides / Tema
 
 | Aula | Data | Tema | Link |
 |------|------|------|------|
@@ -65,6 +94,7 @@ Prof. Esdras Lins Bispo Jr.
 | Aula 06 | 01/04 | Abordagem Tradicional | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/main/2026.1/aulas/06/main.pdf) |
 | Aula 07.1 | 06/04 | Tipos de Projetos em I&E | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/main/2026.1/aulas/07/main.pdf) |
 | Aula 07.2 | 06/04 | Descomprometimento com a Própria Aprendizagem | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/main/2026.1/aulas/descomprometimento/main.pdf) |
+| Aula 08 | 08/04 | Definição de Grupos e Reunião de Alinhamento | --- |
 
 ---
 
@@ -116,7 +146,6 @@ Os QR Codes individuais utilizados nas aulas de participação estão disponíve
 		<tr><td>Phillipi Jesus Cardoso</td><td align="center">25</td><td align="center">Phillipi</td></tr>
 		<tr><td>Rafaela do Prado Borges</td><td align="center">26</td><td align="center">Rafaela</td></tr>
 		<tr><td>Renato Franco Oliveira Lima</td><td align="center">27</td><td align="center">Renato</td></tr>
-		<tr><td>Sergio Braga Medeiros</td><td align="center">28</td><td align="center">Sergio</td></tr>
 		<tr><td>Tatielly Cristine Leal de Araujo</td><td align="center">29</td><td align="center">Tatielly</td></tr>
 		<tr><td>Waltemir Gomes da Silva</td><td align="center">30</td><td align="center">Waltemir</td></tr>
 	</tbody>
