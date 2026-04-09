@@ -118,6 +118,8 @@ Datas explícitas a seguir
 
 ## 👥 5. Escolha de Grupos
 
+> **Observações:** Esta instância foi superada em 08/04/26 e não requer mais acompanhamento.
+
 **Dimensão:** Engajamento / Participação Social  
 
 **Definição do Evento:**  
