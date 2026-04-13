@@ -92,6 +92,8 @@ Ocorrência por atividade
 
 ## 🧑‍💻 4. Inscrição no Canvas LMS
 
+> **Observações:** Esta instância foi superada em 13/04/26 e não requer mais acompanhamento.
+
 **Dimensão:** Evidência de Aprendizagem / Condição de Acesso  
 
 **Definição do Evento:**  
@@ -136,6 +138,32 @@ Estado (com evolução temporal)
 | Após 08/04/26 | 🔵 Azul |
 | Após 13/04/26 | 🟡 Amarelo |
 | Após 15/04/26 | 🔴 Vermelho | 
+
+---
+
+## 🧑‍💻 6. Inscrição no GitHub Classroom
+
+**Dimensão:** Evidência de Aprendizagem / Condição de Acesso  
+
+**Definição do Evento:**  
+Não inscrição na plataforma GitHub Classroom via link: https://classroom.github.com/a/ZS09oOXj
+
+**Unidade de Contagem:**  
+Estado (não recorrente, mas com marcos temporais)
+
+**Marco Temporal:**  
+Datas explícitas a seguir
+
+| Data | Nível |
+|------|------|
+| Até 15/04/26 | ✅ Sem sinalização |
+| Após 15/04/26 | 🔵 Azul |
+| Após 22/04/26 | 🟡 Amarelo |
+| Após 27/04/26 | 🔴 Vermelho |
+
+**Observações:**
+- Progressão baseada em tempo (não repetição)  
+- Torna explícito o custo da inação  
 
 ---
 
