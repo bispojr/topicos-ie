@@ -30,7 +30,6 @@
 - Aisla Victoria Pereira Santos  
 - Lana Carolina Ramos Dias  
 - Rafaela do Prado Borges  
-- Kellen dos Santos Rodrigues  
 
 ---
 
