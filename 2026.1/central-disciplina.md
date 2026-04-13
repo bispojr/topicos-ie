@@ -88,13 +88,17 @@ Prof. Esdras Lins Bispo Jr.
 |------|------|------|------|
 | Aula 01 | 16/03 | Inteligência Artificial e Trabalho Docente | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/main/2026.1/aulas/01/main.pdf) |
 | Aula 02 | 18/03 | Apresentação da Disciplina | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/main/2026.1/aulas/02/main.pdf) |
-| Aula 03 | 23/03 | Encontro entre Informática e Educação | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/main/2026.1/aulas/03/main.pdf) |
-| Aula 04 | 25/03 | Informática na Educação | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/main/2026.1/aulas/04/main.pdf) |
-| Aula 05 | 30/03 | Educação em Computação | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/main/2026.1/aulas/05/main.pdf) |
-| Aula 06 | 01/04 | Abordagem Tradicional | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/main/2026.1/aulas/06/main.pdf) |
-| Aula 07.1 | 06/04 | Tipos de Projetos em I&E | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/main/2026.1/aulas/07/main.pdf) |
-| Aula 07.2 | 06/04 | Descomprometimento com a Própria Aprendizagem | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/main/2026.1/aulas/descomprometimento/main.pdf) |
-| Aula 08 | 08/04 | Definição de Grupos e Reunião de Alinhamento | --- |
+| Aula 03 | 19/03 | Aula Magna: BNCC Computação - Passado, presente, futuro (Reposição) | --- |
+| Aula 04 | 23/03 | Encontro entre Informática e Educação | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/main/2026.1/aulas/03/main.pdf) |
+| Aula 05 | 25/03 | Informática na Educação | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/main/2026.1/aulas/04/main.pdf) |
+| Aula 06 | 25/03 | Palestra sobre IA na Educação de Pesquisadores (Reposição) | --- |
+| Aula 07 | 30/03 | Educação em Computação | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/main/2026.1/aulas/05/main.pdf) |
+| Aula 08 | 01/04 | Abordagem Tradicional | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/main/2026.1/aulas/06/main.pdf) |
+| Aula 09.1 | 06/04 | Tipos de Projetos em I&E | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/main/2026.1/aulas/07/main.pdf) |
+| Aula 09.2 | 06/04 | Descomprometimento com a Própria Aprendizagem | [📥 Baixar PDF](https://github.com/bispojr/topicos-ie/blob/main/2026.1/aulas/descomprometimento/main.pdf) |
+| Aula 10 | 08/04 | Definição de Grupos e Reunião de Alinhamento | 📎 [Acessar documento](https://github.com/bispojr/topicos-ie/blob/main/2026.1/documentos/projeto/main.md) |
+| Aula 11 | 13/04 | Reunião de Alinhamento | 📎 [Acessar documento](https://github.com/bispojr/topicos-ie/blob/main/2026.1/documentos/projeto/main.md) |
+| --- | 15/04 | Participação do Prof. Esdras L. Bispo Jr. no Encontro Nacional de Especialização em Educação Digital e Inovação Pedagógica na Educação Básica (Brasília, MEC). | --- |
 
 ---
 
