@@ -21,8 +21,6 @@ Cada grupo participará **semanalmente** de uma reunião de alinhamento. Todos o
 
 ### 🕒 Horários das Reuniões
 
-### 🕒 Horários das Reuniões
-
 | Semana | Datas       | 🟦 Segunda-feira                          | 🟩 Quarta-feira                          |
 |--------|------------|------------------------------------------|------------------------------------------|
 | **1**  | 06–08/04   | Apresentação + escolha de grupos         | G1 — 14h30                           |
@@ -68,6 +66,7 @@ Cada grupo participará **semanalmente** de uma reunião de alinhamento. Todos o
 Quinzenalmente, cada equipe deverá entregar uma etapa do projeto.  
 Os entregáveis são cumulativos (cada um evolui o anterior) e, ao final das 13 semanas, resultarão no relatório final.
 
+
 Cada entrega será avaliada em:
 - ⏱️ Pontualidade  
 - ✅ Atendimento aos itens  
@@ -75,6 +74,8 @@ Cada entrega será avaliada em:
 - 🤝 Comprometimento (escala Likert)
 
 > ⚠️ Desempenho insatisfatório do grupo (ou do estudante) em qualquer dimensão pode resultar em **reprovação na disciplina**.
+
+> ⚠️ **Atenção:** Não envie dados pessoais reais ou qualquer conteúdo protegido por direitos autorais (copyright) em nenhuma entrega do projeto.
 
 ---
 
