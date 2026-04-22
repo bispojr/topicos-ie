@@ -167,6 +167,31 @@ Datas explícitas a seguir
 
 ---
 
+## 📦 7. Entregável do Projeto: Estruturação do Problema
+
+**Dimensão:** Evidência de Aprendizagem  
+
+**Definição do Evento:**  
+Não entrega do **primeiro entregável do projeto** no Canvas LMS (https://canvas.instructure.com/courses/14532959/assignments/64219701) até os prazos estabelecidos.
+
+**Unidade de Contagem:**  
+Estado (não recorrente, com evolução temporal)
+
+**Marco Temporal:**
+
+| Data | Nível |
+|------|------|
+| Até 24/04/26 (23h55) | ✅ Sem sinalização |
+| Após 24/04/26 | 🔵 Azul |
+| Após 27/04/26 | 🟡 Amarelo |
+| Após 29/04/26 | 🔴 Vermelho |
+
+**Observações:**
+- A progressão ocorre exclusivamente por **atraso na entrega**, independentemente de outros fatores  
+- A entrega interrompe imediatamente a progressão do sinal  
+- Esta instância representa um **ponto crítico de geração de evidência de aprendizagem**  
+- A não entrega até o nível 🔴 compromete diretamente a possibilidade de avaliação formativa adequada  
+
 ## 🔁 Regras Gerais de Progressão
 
 Para todas as instâncias:
