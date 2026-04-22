@@ -28,12 +28,14 @@ Cada grupo participará **semanalmente** de uma reunião de alinhamento. Todos o
 | **3**  | 20–22/04   | *Não haverá aula*                        | G3 — 13h30<br>G4 — 13h55<br>G5 — 14h20<br>G1 — 14h45 |
 | **4**  | 27–29/04   | G4 — 13h30<br>G5 — 13h55<br>G1 — 14h20<br>G2 — 14h45 | G3 — 13h30                           |
 | **5**  | 04–05/05   | *Não haverá aula*                        | *Não haverá aula*                        |
+| **6**  | 11–13/05   | G5 — 13h30<br>G1 — 13h55<br>G2 — 14h20<br>G3 — 14h45 | G4 — 13h30                           |
+| **7**  | 18–20/05   | G1 — 13h30<br>G2 — 13h55<br>G3 — 14h20<br>G4 — 14h45 | G5 — 13h30                           |
+| **8**  | 25–27/05   | G2 — 13h30<br>G3 — 13h55<br>G4 — 14h20<br>G5 — 14h45 | *Não haverá aula*                           |
+
 
 > ⚠️ **Obs.:** Próximas semanas a definir.
 
-<!-- - **Semana 6** (<span style="color:red">14 e 15/10</span>)
-  - **[Terça]** G4: 15h30 | G5: 15h55 | G1: 16h20 | G2: 16h45
-  - **[Quarta]** G3: 15h30
+<!-- - 
 
 - **Semana 7** (<span style="color:red">21 e 22/10</span>)
   - **[Terça]** G5: 15h30 | G1: 15h55 | G2: 16h20 | G3: 16h45
