@@ -143,6 +143,8 @@ Estado (com evolução temporal)
 
 ## 🧑‍💻 6. Inscrição no GitHub Classroom
 
+> **Observações:** Esta instância foi superada em 27/04/26 e não requer mais acompanhamento.
+
 **Dimensão:** Evidência de Aprendizagem / Condição de Acesso  
 
 **Definição do Evento:**  
@@ -185,6 +187,31 @@ Estado (não recorrente, com evolução temporal)
 | Após 24/04/26 | 🔵 Azul |
 | Após 27/04/26 | 🟡 Amarelo |
 | Após 29/04/26 | 🔴 Vermelho |
+
+**Observações:**
+- A progressão ocorre exclusivamente por **atraso na entrega**, independentemente de outros fatores  
+- A entrega interrompe imediatamente a progressão do sinal  
+- Esta instância representa um **ponto crítico de geração de evidência de aprendizagem**  
+- A não entrega até o nível 🔴 compromete diretamente a possibilidade de avaliação formativa adequada  
+
+## 📦 8. Entregável do Projeto: Documento de Planejamento
+
+**Dimensão:** Evidência de Aprendizagem  
+
+**Definição do Evento:**  
+Não entrega do **segundo entregável do projeto** no Canvas LMS (https://canvas.instructure.com/courses/14532959/assignments/64374369) até os prazos estabelecidos.
+
+**Unidade de Contagem:**  
+Estado (não recorrente, com evolução temporal)
+
+**Marco Temporal:**
+
+| Data | Nível |
+|------|------|
+| Até 01/05/26 (23h55) | ✅ Sem sinalização |
+| Após 01/05/26 | 🔵 Azul |
+| Após 06/05/26 | 🟡 Amarelo |
+| Após 11/05/26 | 🔴 Vermelho |
 
 **Observações:**
 - A progressão ocorre exclusivamente por **atraso na entrega**, independentemente de outros fatores  
