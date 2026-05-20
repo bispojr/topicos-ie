@@ -254,6 +254,31 @@ Estado (não recorrente, com evolução temporal)
 
 ---
 
+## 🔁 10. Acumulação de Sinais Azuis
+
+**Dimensão:** Transversal (Padrão Geral de Descomprometimento)
+
+**Definição do Evento:**  
+Acúmulo de **3 (três) sinais 🔵 Azuis ativos** em instâncias distintas ao longo da disciplina.
+
+**Unidade de Contagem:**  
+Quantidade de sinais 🔵 ativos em instâncias distintas
+
+**Janela Temporal:**  
+Acumulado da disciplina (sem janela de expiração)
+
+| Nível | Critério |
+|------|--------|
+| 🟡 Amarelo | 3 sinais 🔵 em instâncias distintas |
+| 🔴 Vermelho | 6 ou mais sinais 🔵 em instâncias distintas |
+
+**Observações:**
+- Esta instância é de caráter **transversal**: não está associada a um comportamento específico, mas ao **padrão geral de desengajamento** ao longo de múltiplas dimensões
+- A lógica subjacente é que a recorrência de incidentes em dimensões distintas evidencia um comprometimento sistêmico com o contrato pedagógico da disciplina
+- Sinais superados (instâncias encerradas) **continuam sendo contabilizados** para fins desta regra, pois refletem o histórico de desalinhamento do estudante
+
+---
+
 ## 🔁 Regras Gerais de Progressão
 
 Para todas as instâncias:
