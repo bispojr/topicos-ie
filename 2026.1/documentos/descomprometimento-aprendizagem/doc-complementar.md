@@ -171,6 +171,8 @@ Datas explícitas a seguir
 
 ## 📦 7. Entregável do Projeto: Estruturação do Problema
 
+> **Observações:** Esta instância foi superada em 18/05/26 e não requer mais acompanhamento.
+
 **Dimensão:** Evidência de Aprendizagem  
 
 **Definição do Evento:**  
@@ -194,12 +196,16 @@ Estado (não recorrente, com evolução temporal)
 - Esta instância representa um **ponto crítico de geração de evidência de aprendizagem**  
 - A não entrega até o nível 🔴 compromete diretamente a possibilidade de avaliação formativa adequada  
 
+---
+
 ## 📦 8. Entregável do Projeto: Documento de Planejamento
+
+> **Observações:** Ajustado em 20/05/26 devido à indisponibilidade do ambiente Canvas LMS.
 
 **Dimensão:** Evidência de Aprendizagem  
 
 **Definição do Evento:**  
-Não entrega do **segundo entregável do projeto** no Canvas LMS (https://canvas.instructure.com/courses/14532959/assignments/64374369) até os prazos estabelecidos.
+Não entrega do **segundo entregável do projeto** no repositório do projeto do grupo no GitHub até os prazos estabelecidos. Serão utilizados os commits realizados como referências.
 
 **Unidade de Contagem:**  
 Estado (não recorrente, com evolução temporal)
@@ -210,14 +216,16 @@ Estado (não recorrente, com evolução temporal)
 |------|------|
 | Até 01/05/26 (23h55) | ✅ Sem sinalização |
 | Após 01/05/26 | 🔵 Azul |
-| Após 06/05/26 | 🟡 Amarelo |
-| Após 11/05/26 | 🔴 Vermelho |
+| Após 20/05/26 | 🟡 Amarelo |
+| Após 22/05/26 | 🔴 Vermelho |
 
 **Observações:**
 - A progressão ocorre exclusivamente por **atraso na entrega**, independentemente de outros fatores  
 - A entrega interrompe imediatamente a progressão do sinal  
 - Esta instância representa um **ponto crítico de geração de evidência de aprendizagem**  
-- A não entrega até o nível 🔴 compromete diretamente a possibilidade de avaliação formativa adequada  
+- A não entrega até o nível 🔴 compromete diretamente a possibilidade de avaliação formativa adequada 
+
+---
 
 ## 🔁 Regras Gerais de Progressão
 
