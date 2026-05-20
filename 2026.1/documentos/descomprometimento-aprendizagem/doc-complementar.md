@@ -227,6 +227,33 @@ Estado (não recorrente, com evolução temporal)
 
 ---
 
+## 📦 9. Entregável do Projeto: Metodologia e Coleta
+
+**Dimensão:** Evidência de Aprendizagem  
+
+**Definição do Evento:**  
+Não entrega do **terceiro entregável do projeto** no repositório do projeto do grupo no GitHub até os prazos estabelecidos. Serão utilizados os commits realizados como referências.
+
+**Unidade de Contagem:**  
+Estado (não recorrente, com evolução temporal)
+
+**Marco Temporal:**
+
+| Data | Nível |
+|------|------|
+| Até 22/05/26 (23h55) | ✅ Sem sinalização |
+| Após 22/05/26 | 🔵 Azul |
+| Após 24/05/26 | 🟡 Amarelo |
+| Após 26/05/26 | 🔴 Vermelho |
+
+**Observações:**
+- A progressão ocorre exclusivamente por **atraso na entrega**, independentemente de outros fatores  
+- A entrega interrompe imediatamente a progressão do sinal  
+- Esta instância representa um **ponto crítico de geração de evidência de aprendizagem**  
+- A não entrega até o nível 🔴 compromete diretamente a possibilidade de avaliação formativa adequada 
+
+---
+
 ## 🔁 Regras Gerais de Progressão
 
 Para todas as instâncias:
