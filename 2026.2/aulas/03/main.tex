@@ -1,0 +1,235 @@
+ \documentclass[xcolor=dvipsnames,table]{beamer}
+
+\usepackage{latexsym}
+\usepackage[utf8]{inputenc}
+\usepackage[brazil]{babel}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{stmaryrd}
+\usepackage{fancybox}
+\usepackage{datetime}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{graphics}
+\usepackage{url}
+\usepackage{algorithmic}
+\usepackage{algorithm}
+\usepackage{acronym}
+\usepackage{array}
+
+\usepackage{enumitem}
+
+\newtheorem{definicao}{Definio}
+\newcommand{\tab}{\hspace*{2em}}
+
+\mode<presentation>
+{
+  \definecolor{colortexto}{RGB}{0,0,0}
+ 
+  \setbeamertemplate{background canvas}[vertical shading][ bottom=white!10,top=white!10]
+  \setbeamercolor{normal text}{fg=colortexto} 
+
+  \usetheme{Warsaw}
+}
+
+\title{Encontro entre Informática e Educação}  
+
+\author{
+  Esdras Lins Bispo Jr. \\ \url{bispojr@ufj.edu.br}
+  } 
+ \institute{
+  Tópicos em Informática e Educação (BCC)\\
+  Informática e Educação (PPGCC)}
+\date{\textbf{25 de agosto de 2026} }
+
+\logo{\includegraphics[width=1.5cm]{images/ufjJataiLogo.png}}
+
+\begin{document}
+
+	\begin{frame}
+		\titlepage
+	\end{frame}
+
+	\AtBeginSection{
+		\begin{frame}{Sumário}%[allowframebreaks]{Sumário}
+    		\tableofcontents[currentsection]
+    		%\tableofcontents[currentsection, hideothersubsections]
+		\end{frame}
+	}
+
+	\begin{frame}{Plano de Aula}
+		\tableofcontents
+		%\tableofcontents[hideallsubsections]
+	\end{frame}
+	
+	\section{Instrução pelos Colegas}
+
+        \begin{frame}{Pergunta 001}
+		\begin{block}{[P001]}
+			Como foi a leitura do estudo prévio?
+		\end{block}
+		\begin{enumerate}[label=(\Alph*)]
+			\item Boa leitura
+			\item Leitura razoável
+			\item Difícil de ler
+			\item Não consegui ler
+		\end{enumerate}
+	\end{frame}
+
+    \begin{frame}{Questão 001}
+
+		\footnotesize
+
+        \begin{block}{[Q001]}
+
+            Um grupo de pesquisadores desenvolveu uma nova metodologia para ensinar estruturas de dados e descobriu que determinada estratégia reduz significativamente as dificuldades dos estudantes. O estudo não utiliza nenhum software ou artefato tecnológico específico.
+
+            Considerando as distinções apresentadas no artigo, como você classificaria melhor essa pesquisa?
+
+        \end{block}
+
+        \begin{enumerate}[label=(\Alph*)]
+
+            \item Informática na Educação, porque envolve um processo de ensino e aprendizagem.
+
+            \item Educação em Computação, porque investiga um fenômeno relacionado ao ensino e aprendizagem de Computação, mesmo sem necessariamente utilizar tecnologia.
+
+            \item Tecnologias na Educação em Computação, porque qualquer pesquisa sobre ensino de Computação envolve tecnologia.
+
+            \item Não pertence a nenhuma das duas áreas, porque pesquisas em educação precisam necessariamente envolver uma área externa à Computação.
+
+         \end{enumerate}
+
+    \end{frame}
+
+     \begin{frame}{Questão 002}
+
+		\footnotesize
+
+        \begin{block}{[Q002]}
+
+            Imagine dois projetos:
+
+            \begin{itemize}
+
+                \item \textbf{Projeto A:} uma equipe investiga por que estudantes abandonam disciplinas introdutórias de programação.
+
+                \item \textbf{Projeto B:} outra equipe desenvolve uma ferramenta digital para apoiar estudantes durante a aprendizagem de programação.
+
+            \end{itemize}
+
+            Ambos os projetos envolvem ensino de Computação. Qual afirmação melhor descreve a diferença entre eles?
+
+        \end{block}
+
+        \begin{enumerate}[label=(\Alph*)]
+
+            \item Os dois pertencem necessariamente à Informática na Educação, pois ambos estão relacionados ao uso educacional da Computação.
+
+            \item O Projeto A pode ser caracterizado como Educação em Computação, enquanto o Projeto B pode aproximar-se da convergência entre Educação em Computação e Informática na Educação.
+
+            \item O Projeto B é Educação em Computação e o Projeto A é Informática na Educação, porque ferramentas digitais são objeto da EC.
+
+            \item Não é possível diferenciar os projetos porque Educação em Computação e Informática na Educação são nomes diferentes para a mesma área.
+
+        \end{enumerate}
+
+    \end{frame}
+
+     \begin{frame}{Questão 003}
+
+		\small
+
+        \begin{block}{[Q003]}
+
+            Uma professora utiliza um ambiente de programação para ensinar estudantes a desenvolver algoritmos. O objetivo da atividade é que os estudantes compreendam conceitos de algoritmos; aprender a utilizar o ambiente não é o objetivo central.
+
+            Qual interpretação está mais de acordo com a distinção apresentada no artigo?
+
+        \end{block}
+
+        \begin{enumerate}[label=(\Alph*)]
+
+            \item Trata-se de ensino através do computador, pois o artefato tecnológico funciona como mediador para aprender outro conteúdo.
+            
+			\item O computador é o objeto de ensino, pois os estudantes precisam aprender a utilizar uma ferramenta computacional.        
+
+            \item Trata-se necessariamente de Educação em Computação, pois qualquer atividade envolvendo programação pertence exclusivamente a essa área.
+
+            \item Trata-se de ensino de Computação apenas quando o computador é utilizado como objeto explícito da aula.
+
+        \end{enumerate}
+
+    \end{frame}
+
+
+    \begin{frame}{Questão 004}
+
+    \begin{block}{[Q004]}
+
+        Uma universidade desenvolve uma plataforma que analisa erros em exercícios de programação e fornece feedback aos estudantes.
+
+        Um pesquisador a classifica como \textbf{Educação em Computação}; outro, como \textbf{Informática na Educação}.
+
+        Considerando o artigo, qual posição é \underline{\bf mais adequada}?
+
+    \end{block}
+
+    \begin{enumerate}[label=(\Alph*)]
+
+        \item É Educação em Computação, pois o foco é a aprendizagem de programação.
+
+        \item É Informática na Educação, pois utiliza tecnologia para mediar a aprendizagem.
+
+        \item Pode representar a convergência entre Educação em Computação e Informática na Educação.
+
+        \item Não pertence a nenhuma das duas áreas, pois envolve uma plataforma tecnológica.
+
+    \end{enumerate}
+
+\end{frame}
+
+     \begin{frame}{Questão 005}
+
+    \begin{block}{[Q005]}
+        Considere as pesquisas:
+
+        \begin{itemize}
+            \item \textbf{I.} Língua materna e erros de compilação de iniciantes.
+            \item \textbf{II.} Jogo digital para aprendizagem de algoritmos.
+            \item \textbf{III.} Formação de professores de Computação.
+            \item \textbf{IV.} Simulador para ensino de Química.
+        \end{itemize}
+
+        Qual classificação é \underline{\bf mais adequada}?
+    \end{block}
+
+    \begin{enumerate}[label=(\Alph*)]
+        \item I e III $\rightarrow$ EC; II $\rightarrow$ convergência EC/IE;
+              IV $\rightarrow$ IE.
+        \item Todas $\rightarrow$ EC, pois envolvem Computação.
+        \item II e IV $\rightarrow$ EC; I e III $\rightarrow$ IE.
+        \item I, II e III $\rightarrow$ IE; IV $\rightarrow$ nenhuma.
+    \end{enumerate}
+
+\end{frame}
+
+\section{Próxima Aula}
+\begin{frame}{Próxima Aula}
+    \begin{block}{Leitura Prévia}
+        \begin{itemize}
+            \item VALENTE, J. A. A comunicação e a educação baseada no uso das tecnologias digitais de informação e comunicação. {\bf UNIFESO-Humanas e Sociais}, v. 1, n. 01, p. 141-166, 2014. Disponível em: \url{https://revista.unifeso.edu.br/index.php/revistaunifesohumanasesociais/article/view/17}.  
+        \end{itemize}
+    \end{block}
+    \begin{block}{Páginas}
+        \begin{itemize}
+        \item Seções 1 e 2 (pp. 141-147). 
+        \end{itemize}
+    \end{block}
+\end{frame}
+	
+	\begin{frame}
+		\titlepage
+	\end{frame}
+	
+\end{document}
