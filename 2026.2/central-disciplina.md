@@ -109,7 +109,7 @@ Os QR Codes individuais utilizados nas aulas de participação estão disponíve
 
 ---
 
-<!-- ### 👥 Lista de Alunos — Plickers
+### 👥 Lista de Alunos — Plickers
 
 <div align="center">
 
@@ -122,39 +122,20 @@ Os QR Codes individuais utilizados nas aulas de participação estão disponíve
 		</tr>
 	</thead>
 	<tbody>
-		<tr><td>Aisla Victoria Pereira Santos</td><td align="center">1</td><td align="center">Aisla</td></tr>
-		<tr><td>Ana Luísa Valeriano Bomfim</td><td align="center">2</td><td align="center">AnaLuísa</td></tr>
-		<tr><td>Antônio Vinícius Ramos de Morais</td><td align="center">3</td><td align="center">Antônio</td></tr>
-		<tr><td>Arthur Alves Silva</td><td align="center">4</td><td align="center">Arthur</td></tr>
-		<tr><td>Claiton Caio Rodrigues da Silva Souza</td><td align="center">5</td><td align="center">Claiton</td></tr>
-		<tr><td>Clara Lima Rezende</td><td align="center">6</td><td align="center">Clara</td></tr>
-		<tr><td>Felipe Franco Lima</td><td align="center">7</td><td align="center">FelLima</td></tr>
-		<tr><td>Felipe Moraes Medeiros</td><td align="center">8</td><td align="center">FelMedeiros</td></tr>
-		<tr><td>Floro Martins Braga Neto</td><td align="center">9</td><td align="center">Floro</td></tr>
-		<tr><td>Gabriel Cardoso Nunes</td><td align="center">10</td><td align="center">Gabriel</td></tr>
-		<tr><td>Gustavo Fé Alves</td><td align="center">11</td><td align="center">GustAlves</td></tr>
-		<tr><td>Gustavo Rockenbach Manfroi</td><td align="center">12</td><td align="center">GustManfroi</td></tr>
-		<tr><td>Igor Santyago Candido Brito</td><td align="center">13</td><td align="center">Igor</td></tr>
-		<tr><td>João de Lima Paiva</td><td align="center">14</td><td align="center">JoãoPaiva</td></tr>
-		<tr><td>João Pedro Vendrame de Medeiros</td><td align="center">15</td><td align="center">JoãoPedro</td></tr>
-		<tr><td>Joaquim Caetano Costa Assis Neto</td><td align="center">16</td><td align="center">Joaquim</td></tr>
-		<tr><td>Kellen dos Santos Rodrigues</td><td align="center">17</td><td align="center">Kellen</td></tr>
-		<tr><td>Lana Carolina Ramos Dias</td><td align="center">18</td><td align="center">Lana</td></tr>
-		<tr><td>Lucas Favero e Silva</td><td align="center">19</td><td align="center">Lucas</td></tr>
-		<tr><td>Lynkoln Heberth Pereira</td><td align="center">20</td><td align="center">Lynkoln</td></tr>
-		<tr><td>Lysian Carneiro Cardoso de Moura</td><td align="center">21</td><td align="center">Lysian</td></tr>
-		<tr><td>Maria Eduarda Almeida Lopes</td><td align="center">22</td><td align="center">MariaEduarda</td></tr>
-		<tr><td>Mateus Campos Rodrigues</td><td align="center">23</td><td align="center">Mateus</td></tr>
-		<tr><td>Pablo Ricardo da Silva</td><td align="center">24</td><td align="center">Pablo</td></tr>
-		<tr><td>Phillipi Jesus Cardoso</td><td align="center">25</td><td align="center">Phillipi</td></tr>
-		<tr><td>Rafaela do Prado Borges</td><td align="center">26</td><td align="center">Rafaela</td></tr>
-		<tr><td>Renato Franco Oliveira Lima</td><td align="center">27</td><td align="center">Renato</td></tr>
-		<tr><td>Tatielly Cristine Leal de Araujo</td><td align="center">29</td><td align="center">Tatielly</td></tr>
-		<tr><td>Waltemir Gomes da Silva</td><td align="center">30</td><td align="center">Waltemir</td></tr>
+		<tr><td>Alfredo Neto</td><td align="center">10</td><td align="center">Alfredo</td></tr>
+		<tr><td>Arthur Sousa</td><td align="center">31</td><td align="center">Arthur</td></tr>
+		<tr><td>Diego Oliveira</td><td align="center">32</td><td align="center">Diego</td></tr>
+		<tr><td>Gabriel Sousa</td><td align="center">33</td><td align="center">Gabriel</td></tr>
+		<tr><td>Gustavo Cortez</td><td align="center">34</td><td align="center">Gustavo</td></tr>
+		<tr><td>Jaqueline Martins</td><td align="center">35</td><td align="center">Jaqueline</td></tr>
+		<tr><td>Miguel Maia</td><td align="center">63</td><td align="center">Miguel</td></tr>
+		<tr><td>Nicolas Santos</td><td align="center">56</td><td align="center">Nicolas</td></tr>
+		<tr><td>Stefane Cruz</td><td align="center">57</td><td align="center">Stefane</td></tr>
+		<tr><td>Walisson Souza</td><td align="center">37</td><td align="center">Walisson</td></tr>
 	</tbody>
 </table>
 
-</div> -->
+</div>
 
 ---
 
