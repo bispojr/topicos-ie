@@ -1,0 +1,222 @@
+ \documentclass[xcolor=dvipsnames,table]{beamer}
+
+\usepackage{latexsym}
+\usepackage[utf8]{inputenc}
+\usepackage[brazil]{babel}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{stmaryrd}
+\usepackage{fancybox}
+\usepackage{datetime}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{graphics}
+\usepackage{url}
+\usepackage{algorithmic}
+\usepackage{algorithm}
+\usepackage{acronym}
+\usepackage{array}
+
+\usepackage{enumitem}
+
+\newtheorem{definicao}{Definio}
+\newcommand{\tab}{\hspace*{2em}}
+
+\mode<presentation>
+{
+  \definecolor{colortexto}{RGB}{0,0,0}
+ 
+  \setbeamertemplate{background canvas}[vertical shading][ bottom=white!10,top=white!10]
+  \setbeamercolor{normal text}{fg=colortexto} 
+
+  \usetheme{Warsaw}
+}
+
+\title{Educação em Computação}  
+
+\author{
+  Esdras Lins Bispo Jr. \\ \url{bispojr@ufj.edu.br}
+  } 
+ \institute{
+  Tópicos em Informática e Educação \\Bacharelado em Ciência da Computação}
+\date{\textbf{01 de setembro de 2026} }
+
+\logo{\includegraphics[width=1.5cm]{images/ufjJataiLogo.png}}
+
+\begin{document}
+
+	\begin{frame}
+		\titlepage
+	\end{frame}
+
+	\AtBeginSection{
+		\begin{frame}{Sumário}%[allowframebreaks]{Sumário}
+    		\tableofcontents[currentsection]
+    		%\tableofcontents[currentsection, hideothersubsections]
+		\end{frame}
+	}
+
+	\begin{frame}{Plano de Aula}
+		\tableofcontents
+		%\tableofcontents[hideallsubsections]
+	\end{frame}
+	
+	\section{Instrução pelos Colegas}
+
+        \begin{frame}{Pesquisa 003}
+		\begin{block}{[P003]}
+			Como foi a leitura do estudo prévio?
+		\end{block}
+		\begin{enumerate}[label=(\Alph*)]
+			\item Boa leitura
+			\item Leitura razoável
+			\item Difícil de ler
+			\item Não consegui ler
+		\end{enumerate}
+	\end{frame}
+
+    { \logo{}
+    \begin{frame}{Questão 012}
+
+    \footnotesize
+
+    \begin{block}{[Q012]}
+
+    Uma universidade decide reformular seu curso de Computação. O novo currículo reduz a ênfase na construção e no funcionamento do hardware e passa a incluir mais conteúdos sobre programação, processos de desenvolvimento de software, teoria e contextos de uso da Computação.
+
+    Considerando a trajetória histórica apresentada por Tedre, Simon e Malmi, qual interpretação é \textbf{mais adequada}?
+
+    \end{block}
+
+    \begin{enumerate}[label=(\Alph*)]
+
+        \item O currículo deixou de ser de Computação, pois o conhecimento sobre hardware é indispensável para caracterizar a área.
+
+        \item A mudança indica que esse currículo abandonou definitivamente a formação técnica em favor de conteúdos sociais e culturais.
+
+        \item O currículo está seguindo uma tendência exclusivamente pedagógica, sem relação com as transformações históricas da própria Computação.
+        
+        \item A mudança representa uma ampliação do foco da educação em Computação para além da máquina, acompanhando o desenvolvimento e a crescente abstração da área.
+
+    \end{enumerate}
+
+\end{frame}
+}
+
+{\logo{}
+\begin{frame}{Questão 013}
+
+    \footnotesize
+
+    \begin{block}{[Q013]}
+
+    Em determinado curso, os professores defendem que o ensino de Computação deve priorizar fundamentos matemáticos e teóricos. Outros professores argumentam que os estudantes precisam desenvolver competências de programação, trabalhar com aplicações e realizar atividades práticas.
+
+    Considerando os debates históricos descritos no estudo, qual interpretação é \textbf{mais adequada}?
+
+    \end{block}
+
+    \begin{enumerate}[label=(\Alph*)]
+
+        \item O conflito revela uma oposição permanente entre duas áreas sem qualquer relação com a evolução da Computação.
+
+        \item A posição teórica representa a visão original da Computação, enquanto a posição prática surgiu apenas quando os computadores deixaram de ser usados em universidades.
+
+        \item O conflito corresponde a um dos debates recorrentes da educação em Computação, especialmente entre perspectivas teóricas e práticas, cujas ênfases variaram historicamente.
+
+        \item A perspectiva prática deve necessariamente substituir a perspectiva teórica, pois a formação profissional é o objetivo central de toda educação em Computação.
+
+    \end{enumerate}
+
+\end{frame}
+}
+
+{\logo{}
+\begin{frame}{Questão 014}
+
+    \footnotesize
+
+    \begin{block}{[Q014]}
+
+    Um professor afirma: ``Ensinar Computação significa principalmente ensinar os estudantes a programar. Se eles conseguem escrever programas corretamente, já desenvolveram a principal forma de pensamento da área.''
+
+    Considerando a discussão histórica apresentada no estudo, qual avaliação é \textbf{mais adequada}?
+
+    \end{block}
+
+    \begin{enumerate}[label=(\Alph*)]
+
+        \item A afirmação é adequada, pois programação e pensamento algorítmico sempre foram considerados conceitos equivalentes.
+
+        \item A afirmação é inadequada, pois o estudo mostra uma ampliação da compreensão da Computação, na qual o pensamento algorítmico e, posteriormente, computacional, ultrapassa o codificar simplesmente.
+
+        \item A afirmação é inadequada porque programação deixou de ter importância na educação em Computação a partir dos anos 1970.
+
+        \item A afirmação é adequada apenas nos currículos voltados à formação profissional, pois currículos acadêmicos não deveriam incluir programação.
+
+    \end{enumerate}
+
+\end{frame}
+}
+
+{\logo{}
+\begin{frame}{Questão 015}
+
+    \footnotesize
+
+    \begin{block}{[Q015]}
+
+    Um curso de Computação passa a ensinar seus estudantes a identificar problemas, formular esses problemas de maneira adequada e decidir quando uma solução pode ser representada de forma algorítmica ou computacional.
+
+    À luz da evolução histórica descrita por Tedre, Simon e Malmi, qual interpretação é \textbf{mais adequada}?
+
+    \end{block}
+
+    \begin{enumerate}[label=(\Alph*)]
+
+        \item Essa abordagem representa uma redução do ensino de Computação, pois substitui a programação por atividades mais gerais.
+
+        \item Essa abordagem corresponde à crescente valorização da Computação como uma atividade de resolução de problemas, indo além da execução de soluções previamente definidas.
+
+        \item Essa abordagem caracteriza exclusivamente o ensino de matemática, já que formular problemas não é uma competência própria da Computação.
+
+        \item Essa abordagem só pode ser considerada computacional quando os estudantes utilizam computadores para executar imediatamente a solução formulada.
+
+    \end{enumerate}
+
+\end{frame}
+}
+
+{\logo{}
+\begin{frame}{Questão 016}
+
+    \footnotesize
+
+    \begin{block}{[Q016]}
+
+    Um professor compara diferentes currículos históricos de Computação e observa que alguns priorizam hardware, outros programação e aplicações, outros fundamentos teóricos, e outros incorporam questões sociais, éticas, profissionais e diferentes áreas de aplicação.
+
+    Com base nas conclusões do estudo, qual interpretação é \textbf{mais adequada}?
+
+    \end{block}
+
+    \begin{enumerate}[label=(\Alph*)]
+
+        \item As diferenças mostram que apenas um desses currículos representa corretamente a Computação, enquanto os demais são desvios históricos.
+
+        \item As diferenças mostram que a Computação perdeu progressivamente seu núcleo disciplinar e, por isso, deixou de possuir conteúdos próprios.
+
+        \item As diferenças são explicadas principalmente pela evolução dos métodos de ensino, independentemente das transformações ocorridas na própria área de Computação.
+        
+        \item As diferenças mostram que a educação em Computação passou por mudanças de prioridade e por uma expansão progressiva de seu foco, tornando-se mais diversificada e interdisciplinar.
+
+    \end{enumerate}
+
+\end{frame}
+}
+	
+\begin{frame}
+		\titlepage
+	\end{frame}
+	
+\end{document}
