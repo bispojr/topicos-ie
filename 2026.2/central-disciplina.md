@@ -59,7 +59,7 @@ Prof. Esdras Lins Bispo Jr.
 
 > Documento de referência do projeto: objetivo, dedicação semanal, cronograma de reuniões de alinhamento, entregáveis e critérios de avaliação.
 
-📎 [Acessar documento (BCC)](https://github.com/bispojr/topicos-ie/blob/main/2026.2/projeto/main-bcc.md)
+📎 [Acessar documento (BCC)](https://github.com/bispojr/topicos-ie/blob/main/2026.2/projeto/main-bcc.md)<bR> 
 📎 [Acessar documento (PPGCC)](https://github.com/bispojr/topicos-ie/blob/main/2026.2/projeto/main-ppgcc.md)
 
 **Tópicos abordados:**
