@@ -28,7 +28,7 @@ Prof. Esdras Lins Bispo Jr.
 
 > Documento oficial com objetivos, cronograma, critérios de avaliação e bibliografia da disciplina.
 
-📎 [Baixar Plano de Ensino [Prévia] (PDF)](https://github.com/bispojr/topicos-ie/blob/main/2026.2/documentos/plano_ensino_topicos_ie_2026_2%20(previa).pdf)
+📎 [Baixar Plano de Ensino (PDF)](https://github.com/bispojr/topicos-ie/blob/main/2026.2/documentos/plano_ensino_topicos_ie_2026_2_assinado.pdf)
 
 ---
 
@@ -59,7 +59,8 @@ Prof. Esdras Lins Bispo Jr.
 
 > Documento de referência do projeto: objetivo, dedicação semanal, cronograma de reuniões de alinhamento, entregáveis e critérios de avaliação.
 
-<!-- 📎 [Acessar documento](https://github.com/bispojr/topicos-ie/blob/main/2026.1/documentos/projeto/main.md)
+📎 [Acessar documento (BCC)](https://github.com/bispojr/topicos-ie/blob/main/2026.2/projeto/main-bcc.md)
+📎 [Acessar documento (PPGCC)](https://github.com/bispojr/topicos-ie/blob/main/2026.2/projeto/main-ppgcc.md)
 
 **Tópicos abordados:**
 
@@ -69,7 +70,7 @@ Prof. Esdras Lins Bispo Jr.
 | ⏳ | Dedicação Semanal Esperada |
 | 2️⃣ | Reuniões de Alinhamento (horários) |
 | 3️⃣ | Entregáveis |
-| 4️⃣ | Critérios de Avaliação | -->
+| 4️⃣ | Critérios de Avaliação |
 
 ---
 
@@ -77,7 +78,7 @@ Prof. Esdras Lins Bispo Jr.
 
 > Tema e estudante associado em cada projeto, incluindo tipo de projeto.
 
-<!-- 📎 [Acessar lista de grupos](https://github.com/bispojr/topicos-ie/blob/main/2026.1/documentos/projeto/grupos.md) -->
+📎 [Acessar lista de grupos](https://github.com/bispojr/topicos-ie/blob/main/2026.2/projeto/grupos.md)
 
 ---
 
