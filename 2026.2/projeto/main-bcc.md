@@ -42,6 +42,14 @@ Cada entrega será avaliada em:
 - 📈 Evolução  
 - 🤝 Comprometimento (escala Likert)
 
+As entregas deverão ser realizadas por e-mail enviado para bispojr@ufj.edu.br, com o seguinte assunto: TIE 26.2 | <grupo>: <nome-do-entregável>. Exemplo: “TIE 26.2 | G3: Estruturação do Problema”.
+
+O relatório em andamento deve ser anexado em PDF antes do envio. A data limite para cada entrega será a sexta-feira da semana correspondente. Por exemplo, se a entrega ocorrer na semana de 22–24/09, o último dia para envio será 25/09 (sexta-feira).
+
+A referência de tempo será o horário de recebimento do e-mail na caixa de entrada do professor. Envios com atraso serão considerados como descomprometimento com a pontualidade do grupo.
+
+As entregas são cumulativas e evoluem ao longo do projeto, resultando no relatório final ao término das 13 semanas.
+
 > ⚠️ Desempenho insatisfatório do grupo (ou do estudante) em qualquer dimensão pode resultar em **reprovação na disciplina**.
 
 > ⚠️ **Atenção:** Não envie dados pessoais reais ou qualquer conteúdo protegido por direitos autorais (copyright) em nenhuma entrega do projeto.
