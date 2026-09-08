@@ -3,8 +3,9 @@
 # 📚 Central da Disciplina
 
 [![UFJ](https://img.shields.io/badge/UFJ-Universidade%20Federal%20de%20Jataí-blue?style=flat-square)](https://www.ufj.edu.br)
-[![Curso](https://img.shields.io/badge/Curso-Ciência%20da%20Computação-green?style=flat-square)](#)
-[![Semestre](https://img.shields.io/badge/Semestre-2026.2-orange?style=flat-square)](#)
+[![Semestre](https://img.shields.io/badge/Semestre-2026.2-orange?style=flat-square)](#) <br>
+[![Curso](https://img.shields.io/badge/Curso-Bacharelado%20em%20Ciência%20da%20Computação-green?style=flat-square)](#) <br>
+[![Programa](https://img.shields.io/badge/Programa-Mestrado%20Acadêmico%20em%20Ciência%20da%20Computação-red?style=flat-square)](#)
 
 **Tópicos em Informática e Educação (ICE 0648)** <bR> 
 **Informática e Educação (PPGCC0005)** <br>
